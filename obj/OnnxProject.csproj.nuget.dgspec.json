@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SourceSvr\\ERP5.7 종합\\MES객체추론\\OnnxProject\\OnnxProject.csproj": {}
+  },
+  "projects": {
+    "D:\\SourceSvr\\ERP5.7 종합\\MES객체추론\\OnnxProject\\OnnxProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SourceSvr\\ERP5.7 종합\\MES객체추론\\OnnxProject\\OnnxProject.csproj",
+        "projectName": "OnnxProject",
+        "projectPath": "D:\\SourceSvr\\ERP5.7 종합\\MES객체추론\\OnnxProject\\OnnxProject.csproj",
+        "packagesPath": "C:\\Users\\ghflc\\.nuget\\packages\\",
+        "outputPath": "D:\\SourceSvr\\ERP5.7 종합\\MES객체추론\\OnnxProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ghflc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Microsoft.ML.OnnxRuntime": {
+              "target": "Package",
+              "version": "[1.16.1, )"
+            },
+            "Microsoft.ML.OnnxRuntime.Managed": {
+              "target": "Package",
+              "version": "[1.16.1, )"
+            },
+            "ZXing.Net": {
+              "target": "Package",
+              "version": "[0.16.9, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

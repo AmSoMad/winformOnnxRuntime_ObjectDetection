@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "EQoqgezgmL96cmSrzpRqn7v9t8JRnpPTor/dB1zP6y4xdPXlZwDaktPiDYiPjv8EIJjZc2OEmi6fOrxxgMQyGg==",
+  "success": true,
+  "projectFilePath": "D:\\SourceSvr\\ERP5.7 종합\\MES객체추론\\OnnxProject\\OnnxProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ghflc\\.nuget\\packages\\microsoft.ml.onnxruntime\\1.16.1\\microsoft.ml.onnxruntime.1.16.1.nupkg.sha512",
+    "C:\\Users\\ghflc\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.16.1\\microsoft.ml.onnxruntime.managed.1.16.1.nupkg.sha512",
+    "C:\\Users\\ghflc\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\ghflc\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ghflc\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ghflc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\ghflc\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512"
+  ],
+  "logs": []
+}
